@@ -66,7 +66,7 @@ ResNet在2015年的ILSVRC（ImageNet Large Scale Visual Recognition Challenge）
 
 ---
 layout: "image-y"
-image: "../public/week3/1.png"
+image: "./week3/1.png"
 ---
 
 ## 是否简单的堆叠越多层，网络的效果就越好？
@@ -78,7 +78,7 @@ image: "../public/week3/1.png"
 
 ---
 layout: "image-y"
-image: "../public/week3/1.png"
+image: "./week3/1.png"
 ---
 
 ## 衰退问题的理论解
@@ -88,7 +88,7 @@ image: "../public/week3/1.png"
 
 ---
 layout: "image-x"
-image: "../public/week3/2.png"
+image: "./week3/2.png"
 ---
 
 ## 解决衰退问题（论文的核心）
@@ -101,7 +101,7 @@ image: "../public/week3/2.png"
 
 ---
 layout: image-y
-image: "../public/week3/3.png"
+image: "./week3/3.png"
 ---
 
 ## 实验结果
