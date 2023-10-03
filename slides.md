@@ -18,3 +18,7 @@ src: ./pages/week1.md
 ---
 src: ./pages/week2.md
 ---
+
+---
+src: ./pages/week3.md
+---

@@ -103,7 +103,7 @@ class: slide-main
 
 ---
 layout: image-x
-image: ./images/relu.png
+image: ./public/relu.png
 ---
 
 <h2>二、论文阅读</h2>
@@ -120,7 +120,7 @@ image: ./images/relu.png
 
 ---
 layout: image-x
-image: ./images/demo.png
+image: ./public/demo.png
 ---
 
 ## 三、项目学习

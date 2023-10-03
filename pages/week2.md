@@ -42,7 +42,7 @@ fonts:
 
 ---
 layout: image-y
-image: ./images/wee2/1.png
+image: ./public/wee2/1.png
 ---
 <h2>模态是异质的</h2>
 <br/>
@@ -54,7 +54,7 @@ image: ./images/wee2/1.png
 
 ---
 layout: image-y
-image: ./images/wee2/2.png
+image: ./public/wee2/2.png
 ---
 <h2>连接（Connections）</h2>
 <br />
@@ -63,7 +63,7 @@ image: ./images/wee2/2.png
 
 ---
 layout: image-y
-image: ./images/wee2/3.png
+image: ./public/wee2/3.png
 ---
 <h2>交互（Interactions）</h2>
 <br />
